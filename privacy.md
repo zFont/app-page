@@ -1,3 +1,4 @@
+# Privacy Policy
 User data information, public and private accounts, or any sensitive information shall not be collected. Any modified versions of this app are not supported by the developer.
 
 **Information Collection and Use**
